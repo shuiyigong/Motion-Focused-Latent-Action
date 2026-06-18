@@ -1,5 +1,5 @@
 # 🚀 Motion-Focused VLA
-
+📄 **Paper:** [Motion-Focused Vision-Language-Action Model via Hybrid Disentangled Action Tokenization](https://arxiv.org/html/2606.18955) (IROS2026)
 ## 📚 Table of Contents
 
 - [1. Environment Setup & Data Preparation](#1-environment-setup-and-data-preparatin)
@@ -28,7 +28,6 @@ pip install torch torchvision
 Install project dependencies:
 
 ```bash
-git clone git@github.com:OpenDriveLab/UniVLA.git
 cd MFVLA
 pip install -e .
 pip install packaging ninja
